@@ -1,3 +1,9 @@
+# Google Solution Challenge 2026 - Build with AI
+
+Team `Karsus's Codex` :
+- Shaurya Pandit
+- Debjeet Singha
+
 # 🔍 LLM Bias Detector
 
 A **Streamlit-powered web app** that analyzes any LLM-generated text for hidden biases using the **Google Gemini API**. Paste a response from ChatGPT, Claude, Gemini, or any other LLM — and get an instant, structured bias audit with severity scores, highlighted excerpts, and rewrite suggestions.
