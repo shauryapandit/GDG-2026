@@ -4,6 +4,7 @@ Team `Karsus's Codex` :
 - Shaurya Pandit
 - Debjeet Singha
 - Debojit Roy
+- Anurag Jyoti
 
 # 🔍 LLM Bias Detector
 
